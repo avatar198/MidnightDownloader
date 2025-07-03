@@ -4,7 +4,7 @@ Download games at night without using extra electricity, for free!
 Get the fully packaged executable from releases, or compile and modify it yourself!
 
 # To run it:
--pip install -r requirements.txt
+-pip install -r requirements.txt \n
 -python md.py
 
 # To use it:
