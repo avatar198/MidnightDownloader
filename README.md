@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](../logo.png)
 # MidnightDownloader
 Download games at night without using extra electricity, for free!
 
